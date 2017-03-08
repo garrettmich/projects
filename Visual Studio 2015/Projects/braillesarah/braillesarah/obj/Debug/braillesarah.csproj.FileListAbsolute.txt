@@ -1,0 +1,6 @@
+c:\users\michelle\documents\visual studio 2015\Projects\braillesarah\braillesarah\bin\Debug\braillesarah.exe.config
+c:\users\michelle\documents\visual studio 2015\Projects\braillesarah\braillesarah\bin\Debug\braillesarah.exe
+c:\users\michelle\documents\visual studio 2015\Projects\braillesarah\braillesarah\bin\Debug\braillesarah.pdb
+c:\users\michelle\documents\visual studio 2015\Projects\braillesarah\braillesarah\obj\Debug\braillesarah.csprojResolveAssemblyReference.cache
+c:\users\michelle\documents\visual studio 2015\Projects\braillesarah\braillesarah\obj\Debug\braillesarah.exe
+c:\users\michelle\documents\visual studio 2015\Projects\braillesarah\braillesarah\obj\Debug\braillesarah.pdb

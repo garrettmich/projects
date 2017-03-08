@@ -1,0 +1,6 @@
+c:\users\michelle\documents\visual studio 2015\Projects\BASICFUNCTIONS_class\BASICFUNCTIONS_class\bin\Debug\BASICFUNCTIONS_class.exe.config
+c:\users\michelle\documents\visual studio 2015\Projects\BASICFUNCTIONS_class\BASICFUNCTIONS_class\bin\Debug\BASICFUNCTIONS_class.exe
+c:\users\michelle\documents\visual studio 2015\Projects\BASICFUNCTIONS_class\BASICFUNCTIONS_class\bin\Debug\BASICFUNCTIONS_class.pdb
+c:\users\michelle\documents\visual studio 2015\Projects\BASICFUNCTIONS_class\BASICFUNCTIONS_class\obj\Debug\BASICFUNCTIONS_class.csprojResolveAssemblyReference.cache
+c:\users\michelle\documents\visual studio 2015\Projects\BASICFUNCTIONS_class\BASICFUNCTIONS_class\obj\Debug\BASICFUNCTIONS_class.exe
+c:\users\michelle\documents\visual studio 2015\Projects\BASICFUNCTIONS_class\BASICFUNCTIONS_class\obj\Debug\BASICFUNCTIONS_class.pdb

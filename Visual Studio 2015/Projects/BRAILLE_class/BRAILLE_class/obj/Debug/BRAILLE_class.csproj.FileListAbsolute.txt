@@ -1,0 +1,6 @@
+c:\users\michelle\documents\visual studio 2015\Projects\BRAILLE_class\BRAILLE_class\bin\Debug\BRAILLE_class.exe.config
+C:\Users\Michelle\Documents\Visual Studio 2015\Projects\BRAILLE_class\BRAILLE_class\obj\Debug\BRAILLE_class.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\Documents\Visual Studio 2015\Projects\BRAILLE_class\BRAILLE_class\bin\Debug\BRAILLE_class.exe
+C:\Users\Michelle\Documents\Visual Studio 2015\Projects\BRAILLE_class\BRAILLE_class\bin\Debug\BRAILLE_class.pdb
+C:\Users\Michelle\Documents\Visual Studio 2015\Projects\BRAILLE_class\BRAILLE_class\obj\Debug\BRAILLE_class.exe
+C:\Users\Michelle\Documents\Visual Studio 2015\Projects\BRAILLE_class\BRAILLE_class\obj\Debug\BRAILLE_class.pdb

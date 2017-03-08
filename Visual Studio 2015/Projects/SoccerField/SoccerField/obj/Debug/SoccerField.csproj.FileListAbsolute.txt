@@ -1,0 +1,6 @@
+c:\users\michelle\documents\visual studio 2015\Projects\SoccerField\SoccerField\bin\Debug\SoccerField.exe.config
+c:\users\michelle\documents\visual studio 2015\Projects\SoccerField\SoccerField\obj\Debug\SoccerField.csprojResolveAssemblyReference.cache
+c:\users\michelle\documents\visual studio 2015\Projects\SoccerField\SoccerField\bin\Debug\SoccerField.exe
+c:\users\michelle\documents\visual studio 2015\Projects\SoccerField\SoccerField\bin\Debug\SoccerField.pdb
+c:\users\michelle\documents\visual studio 2015\Projects\SoccerField\SoccerField\obj\Debug\SoccerField.exe
+c:\users\michelle\documents\visual studio 2015\Projects\SoccerField\SoccerField\obj\Debug\SoccerField.pdb

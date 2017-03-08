@@ -1,0 +1,6 @@
+c:\users\michelle\documents\visual studio 2015\Projects\SOCCERFIELD_class\SOCCERFIELD_class\bin\Debug\SOCCERFIELD_class.exe.config
+c:\users\michelle\documents\visual studio 2015\Projects\SOCCERFIELD_class\SOCCERFIELD_class\obj\Debug\SOCCERFIELD_class.csprojResolveAssemblyReference.cache
+c:\users\michelle\documents\visual studio 2015\Projects\SOCCERFIELD_class\SOCCERFIELD_class\bin\Debug\SOCCERFIELD_class.exe
+c:\users\michelle\documents\visual studio 2015\Projects\SOCCERFIELD_class\SOCCERFIELD_class\bin\Debug\SOCCERFIELD_class.pdb
+c:\users\michelle\documents\visual studio 2015\Projects\SOCCERFIELD_class\SOCCERFIELD_class\obj\Debug\SOCCERFIELD_class.exe
+c:\users\michelle\documents\visual studio 2015\Projects\SOCCERFIELD_class\SOCCERFIELD_class\obj\Debug\SOCCERFIELD_class.pdb

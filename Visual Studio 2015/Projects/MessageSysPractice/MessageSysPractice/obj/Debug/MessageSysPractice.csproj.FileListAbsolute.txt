@@ -1,0 +1,6 @@
+c:\users\michelle\documents\visual studio 2015\Projects\MessageSysPractice\MessageSysPractice\bin\Debug\MessageSysPractice.exe.config
+C:\Users\Michelle\Documents\Visual Studio 2015\Projects\MessageSysPractice\MessageSysPractice\bin\Debug\MessageSysPractice.exe
+C:\Users\Michelle\Documents\Visual Studio 2015\Projects\MessageSysPractice\MessageSysPractice\bin\Debug\MessageSysPractice.pdb
+C:\Users\Michelle\Documents\Visual Studio 2015\Projects\MessageSysPractice\MessageSysPractice\obj\Debug\MessageSysPractice.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\Documents\Visual Studio 2015\Projects\MessageSysPractice\MessageSysPractice\obj\Debug\MessageSysPractice.exe
+C:\Users\Michelle\Documents\Visual Studio 2015\Projects\MessageSysPractice\MessageSysPractice\obj\Debug\MessageSysPractice.pdb

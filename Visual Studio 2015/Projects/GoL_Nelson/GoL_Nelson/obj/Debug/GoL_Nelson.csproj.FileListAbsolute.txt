@@ -1,0 +1,5 @@
+c:\users\michelle\documents\visual studio 2015\Projects\GoL_Nelson\GoL_Nelson\bin\Debug\GoL_Nelson.exe.config
+c:\users\michelle\documents\visual studio 2015\Projects\GoL_Nelson\GoL_Nelson\bin\Debug\GoL_Nelson.exe
+c:\users\michelle\documents\visual studio 2015\Projects\GoL_Nelson\GoL_Nelson\bin\Debug\GoL_Nelson.pdb
+c:\users\michelle\documents\visual studio 2015\Projects\GoL_Nelson\GoL_Nelson\obj\Debug\GoL_Nelson.exe
+c:\users\michelle\documents\visual studio 2015\Projects\GoL_Nelson\GoL_Nelson\obj\Debug\GoL_Nelson.pdb

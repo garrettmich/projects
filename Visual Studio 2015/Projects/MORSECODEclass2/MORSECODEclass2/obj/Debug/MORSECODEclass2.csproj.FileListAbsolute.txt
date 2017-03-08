@@ -1,0 +1,6 @@
+c:\users\michelle\documents\visual studio 2015\Projects\MORSECODEclass2\MORSECODEclass2\bin\Debug\MORSECODEclass2.exe.config
+c:\users\michelle\documents\visual studio 2015\Projects\MORSECODEclass2\MORSECODEclass2\bin\Debug\MORSECODEclass2.exe
+c:\users\michelle\documents\visual studio 2015\Projects\MORSECODEclass2\MORSECODEclass2\bin\Debug\MORSECODEclass2.pdb
+c:\users\michelle\documents\visual studio 2015\Projects\MORSECODEclass2\MORSECODEclass2\obj\Debug\MORSECODEclass2.csprojResolveAssemblyReference.cache
+c:\users\michelle\documents\visual studio 2015\Projects\MORSECODEclass2\MORSECODEclass2\obj\Debug\MORSECODEclass2.exe
+c:\users\michelle\documents\visual studio 2015\Projects\MORSECODEclass2\MORSECODEclass2\obj\Debug\MORSECODEclass2.pdb

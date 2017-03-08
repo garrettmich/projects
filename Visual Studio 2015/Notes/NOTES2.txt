@@ -1,0 +1,80 @@
+NOTES for battleship:
+
+talking about int [,]
+1. draw grid
+2. get input
+3. update grid
+
+
+ARRAY:
+int & string
+
+store 0 int as string "hello"
+store 1 int as string "what's up"
+store 2 int as string "bleh"
+
+if you have an integer, you can make numbers operations (multiply, divide, etc)
+
+
+add one thing to user interface:
+print out the messages as they are stored
+
+(s)ave a messages - encrypt it
+(r)etrieve a messages - decrypt
+(l)ist storage - don't encrypt - inside your message system, you have an array. the list should print out every message
+
+you're making a decoder, essentially.
+
+SYNTAX:
+To declare:
+-String SomeFunction(string a, string b){//code}
+To use:
+- SomeFunction(x, y);
+- Z = SomeFunction(x,y);
+- Console.WriteLine(SomeFunction(x,y));
+
+in C# you have to match it exactly. 
+
+Example functions:
+console programs are LIMITED to static
+
+Ex.
+verbs are usually functions
+ask for radius
+ask for color - //come up with a function to get color, etc
+print buckets - //print is an action 
+get cost
+print cost
+
+Functions: Main and any function you write. Some number of valuation to send and one number to come back. How many arrows go one way and whether one is coming back.
+
+CLASSES:
+-A logical arrangement of varioables and/or functions-Self Contained
+-(somewhat) makes sense together
+-Useful for
+:Structuring data together
+:Doing complex work behind function calls
+:Organizing code}:Share code/functionality
+:Reusing code (very easy to copy a class to a new project)
+
+
+SECTIONS OF A CLASS:
+-Variables (aka Members)
+-Functions(aka Method)
+-Members/Methods can be public or private (or protected, not used as much)
+-Special Function -- Construction
+:Used to initialize a class so it is ready to use
+:This is what is called when you say class something = new class();
+
+
+TO USE:
+-Classes must be instantiated, often with "new" before being used 
+:(Remember our Random class for random numbers)
+-Looks just like any other vaiable:
+:SomeClass myClass = new SomeClass();
+:myClass.someFunction();// this calls the function that you declared in SomeClass
+
+
+
+
+

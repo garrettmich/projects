@@ -1,0 +1,125 @@
+FOR LOOPS: 
+ {
+	for (int counter = 0; counter <10; counter++) //counter-- as well //counter += 3 instead of counter++
+    {
+	Console.WriteLine(counter);
+    }
+	Console.ReadLine();
+   }
+  }
+}
+
+
+HOW DO WE SCALE?:
+For limitede numbers of items, you can do things like this:
+Var Color1
+Var Color2
+Var Color3
+
+
+ARRAYS:
+Arrays allow for a list or collection of items to be named under the same identifier. Each item in the list is then referenced by numbers
+String[] someString={"First one","Second One","Third One"}
+Console.WriteLine(someString[1]);//what will print?(semi-trick question)
+gthe references can be separate variable, such as the ii you are using to go through a For LOOPSNow, you can loop through a lot of variables with the exact same code. 
+
+//in our code, we 
+int i;
+double j; //double is larger than an int in c#
+i = 14
+i = 38
+j=
+What happens in an ARRAY:
+Array is still just a variable - a piece of memory like above ^^^
+int [3] i; //which means it holds 3 integers
+i[0];
+i[2]; //2 int sized steps
+
+
+OTHER ARRAY BITS
+Arrays starts with ZERO
+Arrays can be multi-dimensional: string[][]
+When usiong the [] notation, you are telling c# that this array will only have a single type
+it is possible to have  mixed arrays/collections
+we will cover this but not yet
+There are other objects that work enough like arrays as to be mostly interchangeable - we will cover these soon
+
+
+Message System ARRAYS:
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MessageSystemARRAYS
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            /* 
+             * Would you like to (s)tore a message or (r)etrieve a message?
+             * > S 
+             * What is your message?
+             * > I am testing this message system!
+             * Saved! Your message ID is 0
+             * Would you like to (s)tore or (r)etrieve a message?
+             * R
+             * What is your message ID?
+             * > 0
+             * The message is: I am testing this message system!
+             * 
+             * */
+			 
+			 string message = "";
+			 //or just 'string message;' it is the same thing, BUT if you write message believe to retrieve, just having the ; after message will not work
+			 //change this ^^^ to string[] message = { "","","","",""}; OR string [] message;
+			 
+			 message = new string [5];
+			 //or message = new string [1000];
+			 
+			 int i = 0;
+			 bool stop = false;
+			 while(stop == false)
+			{
+			Console.WriteLine("Would you like to (s)tore a message or (r)etrieve a message or e(x)it?");
+			string response = Console.ReadLine().ToLower();
+			
+			//you need two blocks or functions: one for save and one for retrieve, so you will only have two if's
+			if (response == "s")
+			
+			{
+			//Saving a message
+			Console.WriteLine("What is your message?");
+			message[i] = Console.ReadLine();
+			Console.WriteLine("Saved! Your message ID is " + i)
+			i = i + 1;
+			//or i++;
+			}
+			
+			else if (response == "r")
+			
+			{
+			//Retrieving a 
+			Console.WriteLine("What is your message ID?");
+			string message_id = Console.ReadLine();
+			int message_id_int = Convert.ToInt32(message_id);
+			Console.WriteLine("The message is: " + message[message_id_int]);
+			}
+			else if (response == "x")
+			{
+			stop = true; 
+			{
+			else
+			}
+			
+			//typed anything else
+			Console.ReadLine();
+			}
+			
+		}
+        }
+    }
+}

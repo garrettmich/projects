@@ -1,0 +1,6 @@
+c:\users\michelle\documents\visual studio 2015\Projects\OrderingNumberARRAY\OrderingNumberARRAY\bin\Debug\OrderingNumberARRAY.exe.config
+C:\Users\Michelle\Documents\Visual Studio 2015\Projects\OrderingNumberARRAY\OrderingNumberARRAY\bin\Debug\OrderingNumberARRAY.exe
+C:\Users\Michelle\Documents\Visual Studio 2015\Projects\OrderingNumberARRAY\OrderingNumberARRAY\bin\Debug\OrderingNumberARRAY.pdb
+C:\Users\Michelle\Documents\Visual Studio 2015\Projects\OrderingNumberARRAY\OrderingNumberARRAY\obj\Debug\OrderingNumberARRAY.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\Documents\Visual Studio 2015\Projects\OrderingNumberARRAY\OrderingNumberARRAY\obj\Debug\OrderingNumberARRAY.exe
+C:\Users\Michelle\Documents\Visual Studio 2015\Projects\OrderingNumberARRAY\OrderingNumberARRAY\obj\Debug\OrderingNumberARRAY.pdb

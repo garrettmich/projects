@@ -1,0 +1,6 @@
+c:\users\michelle\documents\visual studio 2015\Projects\CLASSES_classes\CLASSES_classes\bin\Debug\CLASSES_classes.exe.config
+c:\users\michelle\documents\visual studio 2015\Projects\CLASSES_classes\CLASSES_classes\bin\Debug\CLASSES_classes.exe
+c:\users\michelle\documents\visual studio 2015\Projects\CLASSES_classes\CLASSES_classes\bin\Debug\CLASSES_classes.pdb
+c:\users\michelle\documents\visual studio 2015\Projects\CLASSES_classes\CLASSES_classes\obj\Debug\CLASSES_classes.csprojResolveAssemblyReference.cache
+c:\users\michelle\documents\visual studio 2015\Projects\CLASSES_classes\CLASSES_classes\obj\Debug\CLASSES_classes.exe
+c:\users\michelle\documents\visual studio 2015\Projects\CLASSES_classes\CLASSES_classes\obj\Debug\CLASSES_classes.pdb

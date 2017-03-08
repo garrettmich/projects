@@ -1,0 +1,6 @@
+c:\users\michelle\documents\visual studio 2015\Projects\WhenBorn\WhenBorn\bin\Debug\WhenBorn.exe.config
+c:\users\michelle\documents\visual studio 2015\Projects\WhenBorn\WhenBorn\obj\Debug\WhenBorn.csprojResolveAssemblyReference.cache
+c:\users\michelle\documents\visual studio 2015\Projects\WhenBorn\WhenBorn\bin\Debug\WhenBorn.exe
+c:\users\michelle\documents\visual studio 2015\Projects\WhenBorn\WhenBorn\bin\Debug\WhenBorn.pdb
+c:\users\michelle\documents\visual studio 2015\Projects\WhenBorn\WhenBorn\obj\Debug\WhenBorn.exe
+c:\users\michelle\documents\visual studio 2015\Projects\WhenBorn\WhenBorn\obj\Debug\WhenBorn.pdb

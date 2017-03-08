@@ -1,0 +1,6 @@
+c:\users\michelle\documents\visual studio 2015\Projects\LIFE_group\LIFE_group\bin\Debug\LIFE_group.exe.config
+c:\users\michelle\documents\visual studio 2015\Projects\LIFE_group\LIFE_group\bin\Debug\LIFE_group.exe
+c:\users\michelle\documents\visual studio 2015\Projects\LIFE_group\LIFE_group\bin\Debug\LIFE_group.pdb
+c:\users\michelle\documents\visual studio 2015\Projects\LIFE_group\LIFE_group\obj\Debug\LIFE_group.csprojResolveAssemblyReference.cache
+c:\users\michelle\documents\visual studio 2015\Projects\LIFE_group\LIFE_group\obj\Debug\LIFE_group.exe
+c:\users\michelle\documents\visual studio 2015\Projects\LIFE_group\LIFE_group\obj\Debug\LIFE_group.pdb

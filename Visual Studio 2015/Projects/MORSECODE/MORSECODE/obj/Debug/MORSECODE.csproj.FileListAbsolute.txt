@@ -1,0 +1,6 @@
+c:\users\michelle\documents\visual studio 2015\Projects\MORSECODE\MORSECODE\bin\Debug\MORSECODE.exe.config
+c:\users\michelle\documents\visual studio 2015\Projects\MORSECODE\MORSECODE\bin\Debug\MORSECODE.exe
+c:\users\michelle\documents\visual studio 2015\Projects\MORSECODE\MORSECODE\bin\Debug\MORSECODE.pdb
+c:\users\michelle\documents\visual studio 2015\Projects\MORSECODE\MORSECODE\obj\Debug\MORSECODE.csprojResolveAssemblyReference.cache
+c:\users\michelle\documents\visual studio 2015\Projects\MORSECODE\MORSECODE\obj\Debug\MORSECODE.exe
+c:\users\michelle\documents\visual studio 2015\Projects\MORSECODE\MORSECODE\obj\Debug\MORSECODE.pdb

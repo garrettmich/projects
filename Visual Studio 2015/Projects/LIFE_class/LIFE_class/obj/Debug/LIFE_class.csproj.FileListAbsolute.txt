@@ -1,0 +1,2 @@
+c:\users\michelle\documents\visual studio 2015\Projects\LIFE_class\LIFE_class\bin\Debug\LIFE_class.exe.config
+c:\users\michelle\documents\visual studio 2015\Projects\LIFE_class\LIFE_class\obj\Debug\LIFE_class.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\michelle\documents\visual studio 2015\Projects\BATTLESHIP\BATTLESHIP\bin\Debug\BATTLESHIP.exe.config
+c:\users\michelle\documents\visual studio 2015\Projects\BATTLESHIP\BATTLESHIP\obj\Debug\BATTLESHIP.csprojResolveAssemblyReference.cache
+c:\users\michelle\documents\visual studio 2015\Projects\BATTLESHIP\BATTLESHIP\bin\Debug\BATTLESHIP.exe
+c:\users\michelle\documents\visual studio 2015\Projects\BATTLESHIP\BATTLESHIP\bin\Debug\BATTLESHIP.pdb
+c:\users\michelle\documents\visual studio 2015\Projects\BATTLESHIP\BATTLESHIP\obj\Debug\BATTLESHIP.exe
+c:\users\michelle\documents\visual studio 2015\Projects\BATTLESHIP\BATTLESHIP\obj\Debug\BATTLESHIP.pdb

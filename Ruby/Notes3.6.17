@@ -1,0 +1,85 @@
+RUBY NOTES:
+
+Commands:
+C:
+ Windows
+  Users
+   Me
+    Docs
+     Projects
+
+If you are trying to find a folder that has a space in it, use ""s
+Ex. CD(space)"folder" - a quick way to get the quotes, if hitting tab.
+
+Change Directory = CD
+Make Directory = mkDir
+List Directory = ls (gives you a list in your current directory)
+CD(space).. makes you go up a line
+cls = clear screen
+
+Your terminal has to be in the same folder as your ruby files.
+If you want to interpret a file, you hit ruby(space)FileName and then it will interpret the file for you.
+
+Code Academy has a command tutorial
+
+The mathmatical components of Ruby are same as C#
+except they use ** for exponents.
+
+Save Ruby files in text editor as .rb
+
+irb = interactive ruby. ex. you can just start typing in a math and it will give you the answer, etc.
+
+"Hello" + 2 will not work think you cant just add something to a string. You have to change it to a string or int
+
+EX. "Hello" + 2.to_s = Hello2
+to_s = converts to string
+to_i = converts to integer
+EX.
+"2".to_i + 2 = 4
+
+"Hello#{{2}World" =
+number = 332
+332
+"Hello World - #{number}"  =
+"Hello World - 332"
+
+cls will clear your screen
+
+
+Type in rub(space) and drag your file over and it will open it
+
+Variables do NOT have a type in Ruby.
+
+  "puts" is like Console.WriteLine
+  "gets" is like Console.ReadLine
+
+  if you want to know what something you have written is, you would put a .class after it.
+    EX. hi.class and it will say string if it is a string, or number, etc.
+
+
+
+COMPARITIVES:
+EX.
+if > 2
+  puts "Comparitives"
+end
+
+if "A" > "2"
+  puts "Uhh, what?" #it's looking at the ASCII value/alphabetically
+end
+
+if (5 > 2 && 8 > 4) OR if 5 > 2 && 8 > 4
+  puts "Comparitives"
+end
+
+.chomp takes out the space and presses enter for you.
+
+
+
+KATA ROMAN NUMERALS:
+require './converter'
+
+convert = ROmanConverter.new
+puts "Enter a number to convert: "
+number = gets.chomp.to_i
+puts convert.convert(number)

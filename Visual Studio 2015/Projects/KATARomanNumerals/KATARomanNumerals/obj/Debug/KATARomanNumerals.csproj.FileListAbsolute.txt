@@ -1,0 +1,6 @@
+c:\users\michelle\documents\visual studio 2015\Projects\KATARomanNumerals\KATARomanNumerals\bin\Debug\KATARomanNumerals.exe.config
+c:\users\michelle\documents\visual studio 2015\Projects\KATARomanNumerals\KATARomanNumerals\bin\Debug\KATARomanNumerals.exe
+c:\users\michelle\documents\visual studio 2015\Projects\KATARomanNumerals\KATARomanNumerals\bin\Debug\KATARomanNumerals.pdb
+c:\users\michelle\documents\visual studio 2015\Projects\KATARomanNumerals\KATARomanNumerals\obj\Debug\KATARomanNumerals.csprojResolveAssemblyReference.cache
+c:\users\michelle\documents\visual studio 2015\Projects\KATARomanNumerals\KATARomanNumerals\obj\Debug\KATARomanNumerals.exe
+c:\users\michelle\documents\visual studio 2015\Projects\KATARomanNumerals\KATARomanNumerals\obj\Debug\KATARomanNumerals.pdb

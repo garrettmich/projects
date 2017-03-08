@@ -1,0 +1,6 @@
+c:\users\michelle\documents\visual studio 2015\Projects\Loops3\Loops3\bin\Debug\Loops3.exe.config
+c:\users\michelle\documents\visual studio 2015\Projects\Loops3\Loops3\obj\Debug\Loops3.csprojResolveAssemblyReference.cache
+c:\users\michelle\documents\visual studio 2015\Projects\Loops3\Loops3\bin\Debug\Loops3.exe
+c:\users\michelle\documents\visual studio 2015\Projects\Loops3\Loops3\bin\Debug\Loops3.pdb
+c:\users\michelle\documents\visual studio 2015\Projects\Loops3\Loops3\obj\Debug\Loops3.exe
+c:\users\michelle\documents\visual studio 2015\Projects\Loops3\Loops3\obj\Debug\Loops3.pdb

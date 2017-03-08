@@ -1,0 +1,3 @@
+C:\Users\Michelle\Documents\Visual Studio 2015\Projects\Loops3\Loops3\bin\Debug\Loops3.exe.config
+C:\Users\Michelle\Documents\Visual Studio 2015\Projects\Loops3\Loops3\obj\Debug\Loops3.exe
+C:\Users\Michelle\Documents\Visual Studio 2015\Projects\Loops3\Loops3\obj\Debug\Loops3.pdb

@@ -1,0 +1,1 @@
+Console.Write will allow you to write in a specific spot, instead of Console.WriteLine

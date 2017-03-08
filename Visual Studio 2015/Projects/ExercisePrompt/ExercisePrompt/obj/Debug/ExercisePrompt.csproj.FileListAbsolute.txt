@@ -1,0 +1,6 @@
+c:\users\michelle\documents\visual studio 2015\Projects\ExercisePrompt\ExercisePrompt\bin\Debug\ExercisePrompt.exe.config
+c:\users\michelle\documents\visual studio 2015\Projects\ExercisePrompt\ExercisePrompt\bin\Debug\ExercisePrompt.exe
+c:\users\michelle\documents\visual studio 2015\Projects\ExercisePrompt\ExercisePrompt\bin\Debug\ExercisePrompt.pdb
+c:\users\michelle\documents\visual studio 2015\Projects\ExercisePrompt\ExercisePrompt\obj\Debug\ExercisePrompt.csprojResolveAssemblyReference.cache
+c:\users\michelle\documents\visual studio 2015\Projects\ExercisePrompt\ExercisePrompt\obj\Debug\ExercisePrompt.exe
+c:\users\michelle\documents\visual studio 2015\Projects\ExercisePrompt\ExercisePrompt\obj\Debug\ExercisePrompt.pdb
